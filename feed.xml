@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://apraveenshukla.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://apraveenshukla.github.io/" rel="alternate" type="text/html" /><updated>2026-08-23T06:47:34+00:00</updated><id>https://apraveenshukla.github.io/feed.xml</id><title type="html">Praveen Shukla</title><subtitle>AI Engineering @ MBZUAI - Graph Deep Learning, LLM Agents, AI in Healthcare</subtitle><author><name>Praveen Shukla</name><email>praveen.shukla@mbzuai.ac.ae</email></author><entry><title type="html">Launching the Blog</title><link href="https://apraveenshukla.github.io/blog/launching-the-blog/" rel="alternate" type="text/html" title="Launching the Blog" /><published>2026-04-03T00:00:00+00:00</published><updated>2026-04-03T00:00:00+00:00</updated><id>https://apraveenshukla.github.io/blog/launching-the-blog</id><content type="html" xml:base="https://apraveenshukla.github.io/blog/launching-the-blog/"><![CDATA[<p>I am using this blog as a working notebook for ideas that sit between research and engineering.</p>
+
+<p>Most posts here will be short, concrete, and technical. I plan to write about:</p>
+
+<ul>
+  <li>graph deep learning experiments</li>
+  <li>LLM agents and tool-use workflows</li>
+  <li>healthcare AI prototypes</li>
+  <li>evaluation, reproducibility, and failure analysis</li>
+  <li>lessons from building fast and shipping cleanly</li>
+</ul>
+
+<p>Some posts will be polished write-ups. Others will be brief notes from ongoing work, ablations, or implementation details that are useful to document while the context is fresh.</p>
+
+<p>The goal is simple: think clearly, build rigorously, and leave behind artifacts that are actually useful.</p>]]></content><author><name>Praveen Shukla</name><email>praveen.shukla@mbzuai.ac.ae</email></author><category term="blog" /><category term="research-notes" /><category term="build-log" /><summary type="html"><![CDATA[Why I am starting this blog and what I plan to write about.]]></summary></entry></feed>
